@@ -5,5 +5,4 @@ def initialize(name)
   @roster
 end
 
-end
-
+def roster 
